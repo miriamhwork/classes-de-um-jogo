@@ -1,4 +1,4 @@
-# 3️⃣ Escrevendo as classes de um Jogo
+# Escrevendo as classes de um Jogo
 
 **O Que deve ser utilizado**
 - Variáveis
